@@ -25,7 +25,7 @@ public class PetStore {
 private Long petStoreId;
 
 private String petStoreName;
-private String PetStoreAddress;
+private String petStoreAddress;
 private String petStoreCity;
 private String petStoreState;
 private String petStoreZip;
